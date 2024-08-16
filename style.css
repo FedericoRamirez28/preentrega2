@@ -209,7 +209,7 @@ body{
 
 /* ABOUT ME */
 .bodyabout{
-    background-image: url(./multimedia/img-aboutme/fondoabout.jpeg);
+    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/img-aboutme/fondoabout.jpeg);
 }
 /* HEADER */
 
@@ -520,7 +520,7 @@ body{
 /* PRECIOS */
 /* Body background */
 #bodyprices{
-    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/img-prices/fondoprice.jpeg);
+    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/img-contacto/fondocontac.jpeg);
 }
 /* HEADER */
 #precios{
