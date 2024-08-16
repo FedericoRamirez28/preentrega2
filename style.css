@@ -4,7 +4,7 @@
 }
 /* INDEX.HTML */
 body{
-    background-image:url(../multimedia/img-home/fondohome.jpeg);
+    background-image:url(./multimedia/img-home/fondohome.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -209,7 +209,7 @@ body{
 
 /* ABOUT ME */
 .bodyabout{
-    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/img-aboutme/fondoabout.jpeg);
+    background-image: url(./multimedia/img-aboutme/fondoabout.jpeg);
 }
 /* HEADER */
 
