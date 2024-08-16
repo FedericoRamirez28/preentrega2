@@ -209,7 +209,7 @@ body{
 
 /* ABOUT ME */
 .bodyabout{
-    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/img-aboutme/fondoabout.jpeg);
+    background-image: url(./multimedia/img-aboutme/fondoabout.jpeg);
 }
 /* HEADER */
 
@@ -372,7 +372,7 @@ body{
 /* navbar */
 
 #bodytos{
-    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/T.O.S/fondotos.jpeg);
+    background-image: url(./multimedia/T.O.S/fondotos.jpeg);
 }
 
 .colortitle{
@@ -461,7 +461,7 @@ body{
 
 /* bodybackground */
 #bodycontac{
-    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/img-contacto/fondocontac.jpeg);
+    background-image: url(./multimedia/img-contacto/fondocontac.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -520,7 +520,7 @@ body{
 /* PRECIOS */
 /* Body background */
 #bodyprices{
-    background-image: url(../preentrega2-ramirez-gonzalez/multimedia/img-aboutme/fondoabout.jpeg);
+    background-image: url(./multimedia/img-prices/fondoprice.jpeg);
 }
 /* HEADER */
 #precios{
